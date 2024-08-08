@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Ticket4",
+    "description": "I have an issue with the laptop",
+    "team": "Finance",
+    "status": "open",
+    "assignee": "Pavithran",
+    "reporter": "Poonam",
+    "id": "87406e08-3fc5-431a-ac89-d42ea9526a1a"
+  },
+  {
+    "title": "Ticket3",
+    "description": "fsa",
+    "team": "Finance",
+    "status": "close",
+    "assignee": "Pavithran",
+    "reporter": "Poonam",
+    "id": "0a680b4d-56d2-4db3-85d9-9c22a7927f09"
+  },
+  {
+    "title": "Ticket3",
+    "description": "fsa",
+    "team": "Finance",
+    "status": "close",
+    "assignee": "Pavithran",
+    "reporter": "Poonam",
+    "id": "01057721-1004-42aa-bcc4-d8a5c7b54237"
+  }
+]
